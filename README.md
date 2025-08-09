@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **StayEase, a rental property management app as part of my Final Year Project**
 
-- 🌱 I’m currently learning **in-depth knowledge of mobile development with an emphasis on scalable architecture and performance**
+- 🌱 I’m currently learning **in-depth knowledge of mobile development with an emphasis on scalable architecture and performance with using  artifical and machine learning models**
 
 - 💬 Ask me about **react-native,HTML,Css**
 
