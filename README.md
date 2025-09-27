@@ -1,4 +1,4 @@
-<img width="1727" height="421" alt="Screenshot 2025-08-04 143034" src="Screenshot 2025-09-27 160131.png" />
+<img width="1721" height="424" alt="Screenshot 2025-09-27 160131" src="https://github.com/user-attachments/assets/c5f0e7ba-605b-4339-b756-1d6192e46d3d" />
 
 <h1 align="center">Hi 👋, I'm Sumaira Ramzan</h1>
 <h3 align="center">A dedicated lifelong learner focused on advancing mobile app technologies</h3>
