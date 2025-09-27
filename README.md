@@ -11,11 +11,13 @@
 
 - 💬 Ask me about **react-native,HTML,Css**
 
+<h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me **sumaira.ramzan244@gmail.com**
 
 - Also on  **www.linkedin.com/in/sumaira-ramzan**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
