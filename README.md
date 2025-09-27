@@ -9,9 +9,10 @@
 
 - 🌱 I’m currently learning **in-depth knowledge of mobile development with an emphasis on scalable architecture and performance with using  artifical and machine learning models**
 
-- 💬 Ask me about **react-native,HTML,Css**
 
 <h3 align="left">Connect with me:</h3>
+
+- 💬 Ask me about **react-native,HTML,Css**
 
 - 📫 How to reach me **sumaira.ramzan244@gmail.com**
 
