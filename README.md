@@ -9,26 +9,26 @@
 
 🌱 I am currently focusing on advancing my expertise in **mobile app development**, with a strong emphasis on scalable architecture, performance optimization, and the integration of AI/ML technologies to build intelligent and future-ready applications.
 
-<h3 align="left"> 🌐 Connect with me </h3>
+<h3 align="left">🌐 Connect with me</h3>
 
-## 🌐 Connect with me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sumaira-ramzan" target="_blank">
+    <img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sumairaramzan244" target="_blank">
+    <img align="center" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sumaira.ramzan244@gmail.com">
+    <img align="center" alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/sumaira-ramzan" target="_blank">
-  <img align="center" alt="Sumaira's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-</a>
-&nbsp;
-<a href="https://github.com/sumairaramzan244" target="_blank">
-  <img align="center" alt="Sumaira's GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</a>
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+---
 
-<a href="mailto:your-email@gmail.com">
-  <img align="center" alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-</a>
-
-- 📫  Reach me on  **sumaira.ramzan244@gmail.com**
-
-- 💼 **www.linkedin.com/in/sumaira-ramzan**
+- 📫 Reach me at: **sumaira.ramzan244@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/sumaira-ramzan](https://www.linkedin.com/in/sumaira-ramzan)
 
 - 💬 Ask me about **react-native,HTML,Css,firebase**
 
