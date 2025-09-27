@@ -12,12 +12,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 💬 Ask me about **react-native,HTML,Css**
 
 - 📫 How to reach me **sumaira.ramzan244@gmail.com**
 
 - Also on  **www.linkedin.com/in/sumaira-ramzan**
 
+- 💬 Ask me about **react-native,HTML,Css**
 
 <p align="left">
 </p>
