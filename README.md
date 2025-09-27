@@ -9,12 +9,12 @@
 
 🌱 I am currently focusing on advancing my expertise in **mobile app development**, with a strong emphasis on scalable architecture, performance optimization, and the integration of AI/ML technologies to build intelligent and future-ready applications.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> ## 🌐 Connect with me </h3>
 
 
 - 📫 How to reach me **sumaira.ramzan244@gmail.com**
 
-- Also on  **www.linkedin.com/in/sumaira-ramzan**
+- OR   **www.linkedin.com/in/sumaira-ramzan**
 
 - 💬 Ask me about **react-native,HTML,Css,firebase**
 
