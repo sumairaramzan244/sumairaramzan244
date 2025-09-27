@@ -11,6 +11,20 @@
 
 <h3 align="left"> 🌐 Connect with me </h3>
 
+## 🌐 Connect with me  
+
+<a href="https://www.linkedin.com/in/sumaira-ramzan" target="_blank">
+  <img align="center" alt="Sumaira's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
+&nbsp;
+<a href="https://github.com/sumairaramzan244" target="_blank">
+  <img align="center" alt="Sumaira's GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</a>
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+<a href="mailto:your-email@gmail.com">
+  <img align="center" alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+</a>
 
 - 📫  Reach me on  **sumaira.ramzan244@gmail.com**
 
