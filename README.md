@@ -12,23 +12,23 @@
 <h3 align="left">🌐 Connect with me</h3>
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sumaira-ramzan" target="_blank">
     <img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  
+  <!-- GitHub (white version for dark mode) -->
   <a href="https://github.com/sumairaramzan244" target="_blank">
-    <img align="center" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    <img align="center" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  
+  <!-- Email -->
   <a href="mailto:sumaira.ramzan244@gmail.com">
     <img align="center" alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
   </a>
 </p>
-
----
-
-- 📫 Reach me at: **sumaira.ramzan244@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/sumaira-ramzan](https://www.linkedin.com/in/sumaira-ramzan)
 
 - 💬 Ask me about **react-native,HTML,Css,firebase**
 
