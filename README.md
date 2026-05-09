@@ -5,9 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumairaramzan244&label=Profile%20views&color=0e75b6&style=flat" alt="sumairaramzan244" /> </p>
 
-🔭 I recently completed my **Final Year Project – *StayEase**, a rental property management application that integrates AI and Machine Learning models to enhance efficiency and provide smarter property management solutions.
+🚀 Just shipped my Final Year Project — StayEase, an AI-powered rental 
+property management app that makes renting smarter, not harder.
 
-🌱 I am currently focusing on advancing my expertise in **mobile app development**, with a strong emphasis on scalable architecture, performance optimization, and the integration of AI/ML technologies to build intelligent and future-ready applications.
+🌱 Now? Leveling up in mobile app development — crafting scalable, 
+AI/ML-integrated apps that don't just work, they think.
+
+📚 Currently expanding my toolkit — diving deep into Python & new 
+frameworks to bring even smarter solutions to real-world projects.
+
+⚡ Always building. Always shipping. The next big thing is already in progress.
 
 <h3 align="left">🌐 Connect with me</h3>
 
